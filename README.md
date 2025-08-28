@@ -34,7 +34,7 @@ TTS-Detector/
 
 Clone the repo and install dependencies:
 
-git clone https://github.com/yourusername/TTS-Detector.git
+[git clone https://github.com/yourusername/TTS-Detector.git](https://github.com/jeevan9741/Voice-Deepfake-Detector/tree/main)
 cd TTS-Detector
 pip install -r requirements.txt
 
